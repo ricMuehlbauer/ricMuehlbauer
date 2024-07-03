@@ -17,5 +17,5 @@ I'm a SAP developer currently working on Votorantim S.A Curitiba team.
 ### S4HANA Ready!!
 
 <div> 
-<a href="https://www.linkedin.com/in/ricardo-muehlbauer-64889718a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/ricardo-muehlbauer-64889718a/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilsonbormannarruda/" alt="LinkedIn"/></a> 
 </div>
